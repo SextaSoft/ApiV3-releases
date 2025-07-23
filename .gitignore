@@ -1,0 +1,97 @@
+# =================================================================
+# .gitignore para SextaSoft/ApiV3-releases
+# Repositorio público solo para distribución de releases
+# =================================================================
+
+# ===== ARCHIVOS TEMPORALES =====
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# ===== ARCHIVOS DEL SISTEMA =====
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ===== ARCHIVOS DE DESARROLLO =====
+# NO incluir archivos de código fuente accidentalmente
+*.py
+*.pyw
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.dylib
+*.class
+*.jar
+*.war
+*.ear
+
+# Excepto archivos específicos que SÍ queremos
+!README.md
+!CHANGELOG.md
+!LICENSE
+!*.md
+
+# ===== CARPETAS DE DESARROLLO =====
+__pycache__/
+node_modules/
+.venv/
+env/
+venv/
+.env
+build/
+dist/
+*.egg-info/
+
+# ===== ARCHIVOS DE CONFIGURACIÓN =====
+.vscode/
+.idea/
+*.sublime-*
+.project
+.settings/
+
+# ===== LOGS Y DATOS =====
+*.log
+*.sqlite
+*.db
+logs/
+data/
+
+# ===== ARCHIVOS SENSIBLES =====
+# Nunca subir archivos con información sensible
+*.key
+*.pem
+*.p12
+*.pfx
+config.ini
+settings.json
+secrets.*
+
+# =================================================================
+# NOTA IMPORTANTE:
+# Este repositorio SOLO debe contener:
+# - README.md
+# - CHANGELOG.md  
+# - Carpeta Releases/ (opcional, para histórico)
+# - Los releases se manejan mediante GitHub Releases
+# =================================================================
