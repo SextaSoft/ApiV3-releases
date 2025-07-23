@@ -103,7 +103,7 @@ Este software es **propiedad exclusiva de SextaDimension**. Todos los derechos r
 - ❌ **Prohibido**: Ingeniería inversa o descompilación
 - ❌ **Prohibido**: Uso comercial no autorizado
 
-Ver [**LICENSE**](./LICENSE) para términos completos y condiciones de uso.
+Ver [**LICENSE.md**](./LICENSE.md) para términos completos y condiciones de uso.
 
 ---
 

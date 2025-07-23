@@ -29,7 +29,7 @@ Este repositorio es **exclusivamente para distribución** de releases de V3 Gala
 
 ## ⚖️ **Licencia**
 
-Software propietario de **SextaDimension**. Ver [LICENSE](./LICENSE) para detalles.
+Software propietario de **SextaDimension**. Ver [LICENSE.md](./LICENSE.md) para detalles.
 
 ---
 
