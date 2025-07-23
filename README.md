@@ -10,10 +10,13 @@
 
 ## 📥 **Descarga e Instalación**
 
-### 🔥 **Descarga Directa (Recomendado)**
-1. **[📦 Descargar Última Versión](https://github.com/SextaSoft/ApiV3-releases/releases/latest/download/ApiV3.exe)**
-2. Ejecutar `ApiV3.exe` 
-3. ¡Listo! La aplicación se ejecutará y se actualizará automáticamente
+### 🔥 **Descarga Autorizada (Requerido)**
+1. **[� Solicitar Acceso](https://sextadimension.es/solicitar-acceso)** - Registro empresarial
+2. **[📧 Contactar Ventas](mailto:hola@sextadimension.es)** - Para licencia comercial
+3. **Recibir link de descarga** autorizado por email
+4. Descargar e instalar `ApiV3.exe`
+
+> ⚠️ **NOTA**: Esta es una solución empresarial. Se requiere licencia comercial para uso.
 
 ### 📋 **Instalación Manual**
 1. Ve a [**Releases**](https://github.com/SextaSoft/ApiV3-releases/releases)
