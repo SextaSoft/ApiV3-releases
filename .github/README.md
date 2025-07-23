@@ -14,8 +14,12 @@ Este repositorio es **exclusivamente para distribución** de releases de V3 Gala
 
 ## 📥 **Para Usuarios**
 
-### Descarga la Aplicación
-👉 **[📦 Descargar Última Versión](https://github.com/SextaSoft/ApiV3-releases/releases/latest/download/ApiV3.exe)**
+### Solicitar Acceso a la Aplicación
+� **[Contactar para Licencia Comercial](mailto:hola@sextadimension.es)** - Se requiere autorización empresarial
+
+<!-- DESCARGA PROTEGIDA - Solo para clientes autorizados
+�👉 **[📦 Descargar Última Versión](https://github.com/SextaSoft/ApiV3-releases/releases/latest/download/ApiV3.exe)**
+-->
 
 ### Reportar Problemas
 - [🐛 Reportar un Error](https://github.com/SextaSoft/ApiV3-releases/issues/new?template=bug_report.md)

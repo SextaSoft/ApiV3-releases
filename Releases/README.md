@@ -14,11 +14,15 @@ Releases/
     └── ApiV3.exe          ← Nueva funcionalidad
 ```
 
-## 📥 Descarga Recomendada
+## � **Solicitar Acceso**
 
-**Para obtener siempre la versión más reciente:**
+**Para obtener acceso autorizado:**
 
+📧 **[Contactar SextaDimension](mailto:hola@sextadimension.es)** - Licencia empresarial requerida
+
+<!-- DESCARGA PROTEGIDA - Solo clientes autorizados
 👉 **[Descargar Última Versión](https://github.com/SextaSoft/ApiV3-releases/releases/latest/download/ApiV3.exe)**
+-->
 
 ## 📚 Notas
 

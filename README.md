@@ -1,4 +1,24 @@
-# 🚀 V3 GalaSoft API - Releases
+# 🚀 V3 Gala### 📋 **Instalación Autorizada**
+
+> ⚠️ **ACCESO RESTRINGIDO**: Este software requiere licencia comercial
+
+1. **[📧 Solicitar Licencia](mailto:hola@sextadimension.es)** - Contacto empresarial obligatorio
+2. **Verificación de empresa** - Proceso de validación
+3. **Recibir acceso autorizado** - Link de descarga por email
+4. Ejecutar `ApiV3.exe` con licencia válida
+
+<!-- DESCARGA DIRECTA DESHABILITADA POR PROTECCIÓN
+### 🔥 **Descarga Directa (Recomendado)**
+1. **[📦 Descargar Última Versión](https://github.com/SextaSoft/ApiV3-releases/releases/latest/download/ApiV3.exe)**
+2. Ejecutar `ApiV3.exe` 
+3. ¡Listo! La aplicación se ejecutará y se actualizará automáticamente
+
+### 📋 **Instalación Manual**
+1. Ve a [**Releases**](https://github.com/SextaSoft/ApiV3-releases/releases)
+2. Descarga el archivo `ApiV3.exe` de la versión más reciente
+3. Guarda el archivo en la carpeta de tu preferencia
+4. Ejecuta `ApiV3.exe`
+-->leases
 
 [![Latest Release](https://img.shields.io/github/v/release/SextaSoft/ApiV3-releases)](https://github.com/SextaSoft/ApiV3-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/SextaSoft/ApiV3-releases/total)](https://github.com/SextaSoft/ApiV3-releases/releases)
@@ -44,8 +64,8 @@
 3. Configurar según tus necesidades empresariales
 
 ### 🔄 **Actualizaciones**
-- **Automáticas**: La aplicación detecta y descarga actualizaciones
-- **Manual**: Siempre puedes descargar la última versión aquí
+- **Automáticas**: La aplicación detecta y descarga actualizaciones (solo versión licenciada)
+- **Manual**: Contacte a soporte para actualizaciones: hola@sextadimension.es
 
 ---
 
