@@ -2,7 +2,7 @@
 
 > ⚠️ **ACCESO RESTRINGIDO**: Este software requiere licencia comercial
 
-1. **[📧 Solicitar Licencia](mailto:hola@sextadimension.es)** - Contacto empresarial obligatorio
+1. **[📧 Solicitar Licencia](mailto:hola@sextadimension.es?subject=Solicitud%20de%20Licencia%20-%20V3%20GalaSoft%20API&body=Hola%20SextaDimension,%0A%0AMe%20interesa%20obtener%20una%20licencia%20comercial%20para%20V3%20GalaSoft%20API.%0A%0APor%20favor,%20envíenme%20información%20sobre:%0A-%20Precios%20y%20planes%20de%20licencia%0A-%20Características%20incluidas%0A-%20Proceso%20de%20activación%0A-%20Soporte%20técnico%0A%0AInformación%20de%20mi%20empresa:%0AEmpresa:%20[Nombre%20de%20su%20empresa]%0AContacto:%20[Su%20nombre]%0ATeléfono:%20[Su%20teléfono]%0A%0AGracias%20por%20su%20atención.%0A%0ASaludos)** - Contacto empresarial obligatorio
 2. **Verificación de empresa** - Proceso de validación
 3. **Recibir acceso autorizado** - Link de descarga por email
 4. Ejecutar `ApiV3.exe` con licencia válida
@@ -32,7 +32,7 @@
 
 ### 🔥 **Descarga Autorizada (Requerido)**
 1. **[� Solicitar Acceso](https://sextadimension.es/solicitar-acceso)** - Registro empresarial
-2. **[📧 Contactar Ventas](mailto:hola@sextadimension.es)** - Para licencia comercial
+2. **[📧 Contactar Ventas](mailto:hola@sextadimension.es?subject=Solicitud%20de%20Licencia%20Comercial%20-%20V3%20GalaSoft%20API&body=Hola%20equipo%20de%20SextaDimension,%0A%0ASolicito%20información%20comercial%20sobre%20V3%20GalaSoft%20API.%0A%0AInformación%20requerida:%0A-%20Pricing%20y%20planes%20disponibles%0A-%20Características%20de%20la%20versión%20completa%0A-%20Proceso%20de%20compra%20y%20activación%0A-%20Soporte%20técnico%20incluido%0A-%20Descuentos%20para%20empresas%0A%0ADatos%20de%20contacto:%0AEmpresa:%20[Nombre%20empresa]%0AContacto:%20[Su%20nombre]%0AEmail:%20[Su%20email]%0ATeléfono:%20[Opcional]%0A%0AQuedo%20a%20la%20espera%20de%20su%20respuesta.%0A%0ASaludos%20cordiales)** - Para licencia comercial
 3. **Recibir link de descarga** autorizado por email
 4. Descargar e instalar `ApiV3.exe`
 
@@ -65,7 +65,7 @@
 
 ### 🔄 **Actualizaciones**
 - **Automáticas**: La aplicación detecta y descarga actualizaciones (solo versión licenciada)
-- **Manual**: Contacte a soporte para actualizaciones: hola@sextadimension.es
+- **Manual**: [Contacte a soporte](mailto:hola@sextadimension.es?subject=Solicitud%20de%20Actualización%20-%20V3%20GalaSoft%20API&body=Hola%20equipo%20de%20soporte,%0A%0ASolicito%20ayuda%20para%20actualizar%20V3%20GalaSoft%20API.%0A%0AInformación%20actual:%0AVersionn%20instalada:%20[Si%20la%20conoce]%0AProblema%20con%20actualización:%20[Describa%20el%20problema]%0A%0ASistema:%0AWindows:%20[Versión]%0A%0AGracias%20por%20su%20ayuda) para actualizaciones
 
 ---
 
@@ -85,8 +85,8 @@
 - Incluye versión de Windows y descripción del problema
 
 ### 📞 **Contacto Empresarial**
-- **Email**: hola@sextadimension.es
-- **Soporte**: hola@sextadimension.es
+- **Email**: [hola@sextadimension.es](mailto:hola@sextadimension.es?subject=Consulta%20Comercial%20-%20V3%20GalaSoft%20API&body=Hola%20SextaDimension,%0A%0ATengo%20interés%20en%20V3%20GalaSoft%20API.%0A%0A[Describa%20su%20consulta%20aquí]%0A%0AEmpresa:%20[Nombre]%0AContacto:%20[Su%20nombre]%0A%0AGracias)
+- **Soporte**: [hola@sextadimension.es](mailto:hola@sextadimension.es?subject=Soporte%20Técnico%20-%20V3%20GalaSoft%20API&body=Hola%20equipo%20de%20soporte,%0A%0ANecesito%20asistencia%20técnica%20con%20V3%20GalaSoft%20API.%0A%0ADescripción%20del%20problema:%0A[Describa%20detalladamente%20el%20problema]%0A%0ASistema:%0AWindows:%20[10/11]%0AVersionn%20app:%20[Si%20la%20conoce]%0A%0AGracias%20por%20su%20ayuda)
 - **Website**: [SextaDimension](https://sextadimension.es/)
 
 ---
