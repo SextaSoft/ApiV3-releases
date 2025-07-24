@@ -1,4 +1,14 @@
-# 🚀 V3 Gala### 📋 **Instalación Autorizada**
+# 🚀 V3 GalaSoft API - Releases
+
+[![Latest Release](https://img.shields.io/github/v/release/SextaSoft/ApiV3-releases)](https://github.com/SextaSoft/ApiV3-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/SextaSoft/ApiV3-releases/total)](https://github.com/SextaSoft/ApiV3-releases/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/SextaSoft/ApiV3-releases/releases)
+
+**Aplicación profesional para gestión de APIs empresariales por SextaDimension**
+
+---
+
+## 📋 **Instalación Autorizada**
 
 > ⚠️ **ACCESO RESTRINGIDO**: Este software requiere licencia comercial
 
