@@ -17,19 +17,6 @@
 3. **Recibir acceso autorizado** - Link de descarga por email
 4. Ejecutar `ApiV3.exe` con licencia válida
 
-<!-- DESCARGA DIRECTA DESHABILITADA POR PROTECCIÓN
-### 🔥 **Descarga Directa (Recomendado)**
-1. **[📦 Descargar Última Versión](https://github.com/SextaSoft/ApiV3-releases/releases/latest/download/ApiV3.exe)**
-2. Ejecutar `ApiV3.exe` 
-3. ¡Listo! La aplicación se ejecutará y se actualizará automáticamente
-
-### 📋 **Instalación Manual**
-1. Ve a [**Releases**](https://github.com/SextaSoft/ApiV3-releases/releases)
-2. Descarga el archivo `ApiV3.exe` de la versión más reciente
-3. Guarda el archivo en la carpeta de tu preferencia
-4. Ejecuta `ApiV3.exe`
--->leases
-
 [![Latest Release](https://img.shields.io/github/v/release/SextaSoft/ApiV3-releases)](https://github.com/SextaSoft/ApiV3-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/SextaSoft/ApiV3-releases/total)](https://github.com/SextaSoft/ApiV3-releases/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/SextaSoft/ApiV3-releases/releases)
@@ -38,21 +25,12 @@
 
 ---
 
-## 📥 **Descarga e Instalación**
+## 📥 **Solicitar Acceso a la Aplicación**
 
-### 🔥 **Descarga Autorizada (Requerido)**
-1. **[� Solicitar Acceso](https://sextadimension.es/solicitar-acceso)** - Registro empresarial
-2. **[📧 Contactar Ventas](mailto:hola@sextadimension.es?subject=Solicitud%20de%20Licencia%20Comercial%20-%20V3%20GalaSoft%20API&body=Hola%20equipo%20de%20SextaDimension,%0A%0ASolicito%20información%20comercial%20sobre%20V3%20GalaSoft%20API.%0A%0AInformación%20requerida:%0A-%20Pricing%20y%20planes%20disponibles%0A-%20Características%20de%20la%20versión%20completa%0A-%20Proceso%20de%20compra%20y%20activación%0A-%20Soporte%20técnico%20incluido%0A-%20Descuentos%20para%20empresas%0A%0ADatos%20de%20contacto:%0AEmpresa:%20[Nombre%20empresa]%0AContacto:%20[Su%20nombre]%0AEmail:%20[Su%20email]%0ATeléfono:%20[Opcional]%0A%0AQuedo%20a%20la%20espera%20de%20su%20respuesta.%0A%0ASaludos%20cordiales)** - Para licencia comercial
-3. **Recibir link de descarga** autorizado por email
-4. Descargar e instalar `ApiV3.exe`
+### Contacto Comercial Requerido
+🔐 **[Contactar para Licencia Comercial](mailto:hola@sextadimension.es?subject=Solicitud%20de%20Acceso%20-%20V3%20GalaSoft%20API&body=Hola%20SextaDimension,%0A%0ASolicito%20acceso%20autorizado%20a%20V3%20GalaSoft%20API.%0A%0AInformación%20empresarial:%0AEmpresa:%20[Nombre%20de%20su%20empresa]%0ASector:%20[Sector%20de%20actividad]%0AContacto:%20[Su%20nombre%20y%20cargo]%0AEmail:%20[Email%20corporativo]%0ATeléfono:%20[Teléfono%20de%20contacto]%0A%0AUso%20previsto:%0A[Describa%20brevemente%20para%20qué%20necesita%20la%20aplicación]%0A%0APor%20favor,%20envíenme:%0A-%20Información%20de%20licenciamiento%0A-%20Precios%20y%20condiciones%0A-%20Proceso%20de%20activación%0A%0AGracias%20por%20su%20atención.%0A%0ASaludos)** - Se requiere autorización empresarial
 
 > ⚠️ **NOTA**: Esta es una solución empresarial. Se requiere licencia comercial para uso.
-
-### 📋 **Instalación Manual**
-1. Ve a [**Releases**](https://github.com/SextaSoft/ApiV3-releases/releases)
-2. Descarga el archivo `ApiV3.exe` de la versión más reciente
-3. Guarda el archivo en la carpeta de tu preferencia
-4. Ejecuta `ApiV3.exe`
 
 ---
 
@@ -69,9 +47,10 @@
 ## 📚 **Guía de Uso**
 
 ### 🚀 **Primer Uso**
-1. Descargar y ejecutar `ApiV3.exe`
-2. La aplicación iniciará automáticamente
-3. Configurar según tus necesidades empresariales
+1. Solicitar licencia comercial a través del contacto oficial
+2. Recibir autorización y enlace de descarga
+3. Ejecutar `ApiV3.exe` con licencia válida
+4. Configurar según tus necesidades empresariales
 
 ### 🔄 **Actualizaciones**
 - **Automáticas**: La aplicación detecta y descarga actualizaciones (solo versión licenciada)
