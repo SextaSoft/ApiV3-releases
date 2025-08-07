@@ -34,9 +34,6 @@ Se otorga una licencia limitada, no exclusiva, no transferible para:
 
 ## 🛡️ **Garantía y Responsabilidad**
 
-### Limitación de Garantía
-El Software se proporciona "TAL COMO ESTÁ", sin garantías de ningún tipo, expresas o implícitas.
-
 ### Limitación de Responsabilidad
 **SextaDimension** no será responsable por daños directos, indirectos, incidentales, especiales o consecuentes.
 
