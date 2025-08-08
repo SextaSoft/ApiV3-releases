@@ -95,3 +95,39 @@ secrets.*
 # - Carpeta Releases/ (opcional, para histórico)
 # - Los releases se manejan mediante GitHub Releases
 # =================================================================
+# Ignorar carpetas de caché de Python
+__pycache__/
+**/__pycache__/
+
+# Build y distribución
+build/
+dist/
+
+# ====================================
+# CONFIGURACIÓN PARA NUEVAS LICENCIAS
+# ====================================
+
+# NO subir las licencias generadas (privacidad del cliente)
+# Solo se suben las revocadas para distribución pública
+C:\Users\Luis Sexta Dimension\Documents\GitHub\ApiV3-releases/licencias/
+
+# Archivos de licencia locales (por si acaso hay algunos locales)
+licencias_generadas/
+*.license
+license_*.txt
+license_*.json
+
+# Logs de verificación
+license_check.log
+test_updater.log
+
+# Archivos temporales del sistema
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Configuración local específica
+config_local.py
+local_settings.json
+
