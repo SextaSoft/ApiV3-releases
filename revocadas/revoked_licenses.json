@@ -1,7 +1,12 @@
 {
-  "last_updated": "2025-08-08T12:25:48.458620",
-  "total_revoked": 1,
+  "last_updated": "2025-08-13T11:55:39.919937",
+  "total_revoked": 2,
   "revoked_licenses": [
+    {
+      "machine_id": "57EE-BD6C-8588",
+      "revoked_at": "2025-08-13T11:55:39.911064",
+      "reason": "Prueba revocación"
+    },
     {
       "machine_id": "5B1E-4962-15B9",
       "revoked_at": "2025-08-08T12:25:44.532385",
