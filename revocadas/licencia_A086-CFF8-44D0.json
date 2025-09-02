@@ -1,0 +1,13 @@
+{
+  "machine_id": "A086-CFF8-44D0",
+  "license_key": "AE31-BBC8-DE29-0021",
+  "client_name": "Jose LUis",
+  "status": "active",
+  "created_at": "2025-09-02T13:05:26.786483",
+  "activated_at": null,
+  "expires_at": "2026-09-02T13:05:26.786483",
+  "notes": "Maquina",
+  "version": "1.0.0",
+  "product": "API V3 - SextaSoft",
+  "checksum": "DB0418086AC3"
+}

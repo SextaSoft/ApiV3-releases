@@ -1,0 +1,13 @@
+{
+  "machine_id": "TEST123",
+  "license_key": "F7EC-A882-AE52-EB94",
+  "client_name": "Cliente Test",
+  "status": "active",
+  "created_at": "2025-08-13T12:47:12.428722",
+  "activated_at": null,
+  "expires_at": "2026-08-13T12:47:12.428722",
+  "notes": "Licencia de prueba",
+  "version": "1.0.0",
+  "product": "API V3 - SextaSoft",
+  "checksum": "404B614A351C"
+}
