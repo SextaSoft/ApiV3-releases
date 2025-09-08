@@ -1,12 +1,12 @@
 {
   "machine_id": "BD3B-329D-854A",
   "license_key": "0CDF-B0BE-705E-CBF5",
-  "client_name": "ORdenador trabajo",
+  "client_name": "Luis Sexta Dimension - Desarrollo",
   "status": "active",
-  "created_at": "2025-09-02T13:37:38.488049",
+  "created_at": "2025-09-08T11:07:43.010075",
   "activated_at": null,
-  "expires_at": "2026-09-02T13:37:38.488049",
-  "notes": "soy yo",
+  "expires_at": "2026-09-08T11:07:43.010075",
+  "notes": "Licencia de desarrollo para pruebas",
   "version": "1.0.0",
   "product": "API V3 - SextaSoft",
   "checksum": "5E1BD8AC3DD5"
