@@ -1,10 +1,5 @@
 [
   {
-    "machine_id": "3FFA-A265-D8E9",
-    "revoked_date": "2025-09-08T11:37:43.255964",
-    "reason": "Prueba revocacion"
-  },
-  {
     "machine_id": "5B1E-4962-15B9",
     "revoked_date": "2025-09-01T13:55:37.867704",
     "reason": "Prueba revocación"
@@ -21,12 +16,12 @@
   },
   {
     "machine_id": "57EE_BD6C_8588",
-    "revoked_date": "2025-09-08T11:37:43.259877",
+    "revoked_date": "2025-09-08T12:02:53.864384",
     "reason": "Migración automática"
   },
   {
     "machine_id": "5B1E_4962_15B9",
-    "revoked_date": "2025-09-08T11:37:43.259927",
+    "revoked_date": "2025-09-08T12:02:53.864415",
     "reason": "Migración automática"
   }
 ]

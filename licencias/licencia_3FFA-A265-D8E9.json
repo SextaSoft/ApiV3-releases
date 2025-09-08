@@ -3,10 +3,10 @@
   "license_key": "CE8B-1111-4F06-A75E",
   "client_name": "Lucia",
   "status": "active",
-  "created_at": "2025-09-08T11:27:56.827945",
+  "created_at": "2025-09-08T12:02:53.859743",
   "activated_at": null,
-  "expires_at": "2026-09-08T11:27:56.827945",
-  "notes": "Prueba",
+  "expires_at": "2026-09-08T12:02:53.859743",
+  "notes": "Reactivar",
   "version": "1.0.0",
   "product": "API V3 - SextaSoft",
   "checksum": "E15E3A359BC7"
