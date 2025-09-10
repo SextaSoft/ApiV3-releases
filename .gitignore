@@ -104,22 +104,23 @@ build/
 dist/
 
 # ====================================
-# CONFIGURACIÓN PARA NUEVAS LICENCIAS
+# 🔒 LICENCIAS - PROTECCIÓN ESPECÍFICA
 # ====================================
-
-# NO subir las licencias generadas (privacidad del cliente)
-# Solo se suben las revocadas para distribución pública
-C:\Users\Luis Sexta Dimension\Documents\GitHub\ApiV3-releases/licencias/
-
-# Archivos de licencia locales (por si acaso hay algunos locales)
-licencias_generadas/
-*.license
-license_*.txt
+# BLOQUEAR: Licencias activas en /licencias/
+licencias/
+licencias/*.json
+licencia_*.json
 license_*.json
 
-# Logs de verificación
+# PERMITIR: Licencias revocadas en /revocadas/
+!revocadas/
+!revocadas/*.json
+!revocadas/revoked_licenses.json
+
+# Logs de verificación de licencias
 license_check.log
 test_updater.log
+verificacion_*.log
 
 # Archivos temporales del sistema
 *.tmp

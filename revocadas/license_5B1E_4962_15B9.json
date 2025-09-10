@@ -1,0 +1,16 @@
+{
+  "machine_id": "5B1E-4962-15B9",
+  "license_key": "AB99-51BD-4201-55E7",
+  "client_name": "Luis pruba invencion",
+  "status": "revoked",
+  "created_at": "2025-08-08T12:24:54.254288",
+  "activated_at": null,
+  "expires_at": "2026-08-08T12:24:54.254288",
+  "last_check": null,
+  "notes": "Es guapo",
+  "version": "1.1.4",
+  "product": "API V3",
+  "company": "SextaSoft",
+  "revoked_at": "2025-08-08T12:25:44.532385",
+  "revoked_reason": "Es un moroso"
+}

@@ -1,0 +1,16 @@
+{
+  "machine_id": "57EE-BD6C-8588",
+  "license_key": "4B43-5E62-485A-AC82",
+  "client_name": "Prueba maquina virtual",
+  "status": "revoked",
+  "created_at": "2025-08-13T11:51:31.874783",
+  "activated_at": null,
+  "expires_at": "2026-08-13T11:51:31.874783",
+  "last_check": null,
+  "notes": "Empieza el 13/08 el pago",
+  "version": "1.1.4",
+  "product": "API V3",
+  "company": "SextaSoft",
+  "revoked_at": "2025-08-13T11:55:39.911064",
+  "revoked_reason": "Prueba revocación"
+}
